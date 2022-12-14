@@ -54,6 +54,51 @@
             </div>
         </div>
     </section>
+    <section class=" w-full relative">
+        <div class=" relative mx-auto">
+            <div class=" mb-28">
+                <div class=" max-w-5xl mx-auto px-2">
+                    <div class="owl-carousel part owl-theme">
+                        <div class=" w-full h-auto clear-both float-left relative">
+                            <i class='bx bx-brain absolute left-0 top-1 w-12 h-12 text-5xl' ></i>
+                            <div class=" pl-16">
+                                <h3 class=" m-0 text-lg font-semibold mb-4">Creative</h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus qui excepturi, sit vel nulla nesciunt in</p>
+                            </div>
+                        </div>
+                        <div> 
+                            <i class='bx bxl-graphql absolute left-0 top-1 w-12 h-12 text-5xl' ></i>
+                            <div class=" pl-16">
+                                <h3 class=" m-0 text-lg font-semibold mb-4">Ball Control</h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus qui excepturi, sit vel nulla nesciunt in</p>
+                            </div>
+                        </div>
+                        <div> 
+                            <i class='bx bx-shape-triangle  absolute left-0 top-1 w-12 h-12 text-5xl'></i>
+                            <div class=" pl-16">
+                                <h3 class=" m-0 text-lg font-semibold mb-4">The Ball Pass</h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus qui excepturi, sit vel nulla nesciunt in</p>
+                            </div>
+                        </div>
+                        <div> 
+                            <i class='bx bx-cross absolute left-0 top-1 w-12 h-12 text-5xl' ></i>
+                            <div class=" pl-16">
+                                <h3 class=" m-0 text-lg font-semibold mb-4">Master Free Kick</h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus qui excepturi, sit vel nulla nesciunt in</p>
+                            </div>
+                        </div>
+                        <div> 
+                            <i class='bx bx-shape-circle absolute left-0 top-1 w-12 h-12 text-5xl'></i>
+                            <div class=" pl-16">
+                                <h3 class=" m-0 text-lg font-semibold mb-4">Genius Tactic</h3>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus qui excepturi, sit vel nulla nesciunt in</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     @include('inc.footer')
 </body>
 </html>
