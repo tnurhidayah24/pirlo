@@ -99,6 +99,42 @@
             </div>
         </div>
     </section>
+    <section class=" w-full relative">
+        <div class=" pt-12">
+            <div class="max-w-5xl mx-auto px-2">
+                <div class=" w-full h-auto clear-both float-left">
+                    <div id="title" class=" w-full h-auto clear-both flex items-center justify-between">
+                        <div id="title-holder" class=" float-left w-full pb-9 mb-7">
+                            <h3 class=" uppercase font-black text-4xl relative m-0 p-0">
+                                Get In Touch
+                                <span class=" text-transparent absolute -left-1 text-7xl md:text-9xl font-black opacity-10 leading-none overflow-hidden whitespace-nowrap -bottom-8 -z-10" style="-webkit-text-stroke: 1px #000;">Contact</span>
+                            </h3>
+                        </div>
+                    </div>
+                    <div id="desc" class=" md:w-2/4 pt-8 float-left">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo eius excepturi, et, alias perspiciatis repudiandae incidunt aliquid quam vitae ex nobis illo error natus sequi quasi porro beatae? Ratione, dolorum?
+                        </p>
+                    </div>
+                    <div id="contact" class=" w-full h-auto clear-both flex pt-10 pb-5 flex-col md:flex-row">
+                        <div id="left" class=" md:w-1/2 md:pr-6">
+                            <form action="">
+                                <input type="text" placeholder="Name" class="input input-bordered w-full mb-8" />
+                                <input type="email" placeholder="Email" class="input input-bordered w-full mb-8" />
+                                <textarea class="textarea textarea-bordered w-full mb-8" placeholder="Message"></textarea>
+                                <input type="submit" value="Send Message" class="btn" />
+                            </form>
+                        </div>
+                        <div id="right" class=" md:w-1/2 md:pl-6 top-2 md:-top-20 relative mt-2">
+                            <div class=" w-full">
+                                <iframe style="max-width: 100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d214441.27870736778!2d7.395007994050551!3d45.07473079335453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886c17f7814e37%3A0xe3be8084a88d8da5!2sStadion%20Juventus!5e0!3m2!1sid!2sid!4v1671044290276!5m2!1sid!2sid" width="800" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     @include('inc.footer')
 </body>
 </html>
