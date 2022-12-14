@@ -99,6 +99,76 @@
             </div>
         </div>
     </section>
+    <section class=" w-full relativ">
+        <div class=" pt-12">
+            <div class="max-w-5xl mx-auto px-2">
+                 <div class=" w-full h-auto clear-both float-left">
+                    <div id="title" class=" w-full h-auto clear-both flex items-center justify-between">
+                        <div id="title-holder" class=" float-left w-full pb-9 mb-7">
+                            <h3 class=" uppercase font-black text-4xl relative m-0 p-0">
+                                Latest Blog
+                                <span class=" text-transparent absolute -left-1 text-7xl md:text-9xl font-black opacity-10 leading-none overflow-hidden whitespace-nowrap -bottom-8 -z-10" style="-webkit-text-stroke: 1px #000;">Articles</span>
+                            </h3>
+                        </div>
+                    </div>
+                    <div id="card" class="w-full pb-40">
+                        <div class="grid lg:grid-cols-3 gap-6 xl:gap-x-12">
+                            <div class="mb-6 lg:mb-0">
+                                <div class="card  bg-base-100 shadow-xl">
+                                    <figure><img src="https://images.unsplash.com/photo-1575361204480-aadea25e6e68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" alt="Shoes" /></figure>
+                                    <div class="card-body">
+                                        <a href="">
+                                            <h2 class="card-title">
+                                                Temporibus id consectetur reiciendis nihil! Ipsum, quis expedita!
+                                            </h2>
+                                        </a>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, optio commodi pariatur iste dicta veritatis aspernatur dolorum, expedita nesciunt nemo similique aut. Dolorum harum vel, eveniet deleniti beatae pariatur obcaecati.</p>
+                                        <div class="card-actions justify-end">
+                                        <div class="badge badge-outline">Juventiny</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-6 lg:mb-0">
+                                <div class="card bg-base-100 shadow-xl">
+                                    <figure><img src="https://images.unsplash.com/photo-1614632537190-23e4146777db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Shoes" /></figure>
+                                    <div class="card-body">
+                                        <a href="">
+                                            <h2 class="card-title">
+                                                Nobis itaque sint doloribus nostrum.
+                                            </h2>
+                                        </a>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt voluptas tempore rem quo provident cupiditate. Aliquid amet nisi est repellat, ipsa adipisci recusandae! Numquam debitis sequi facere magni eveniet laborum.</p>
+                                        <div class="card-actions justify-end">
+                                        <div class="badge badge-outline">Juventiny</div> 
+                                        <div class="badge badge-outline">Products</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-0">
+                                <div class="card bg-base-100 shadow-xl">
+                                    <figure><img src="https://images.unsplash.com/photo-1486286701208-1d58e9338013?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Shoes" /></figure>
+                                    <div class="card-body">
+                                        <a href="">
+                                            <h2 class="card-title">
+                                                Ipsum facere tempore laudantium hic totam.
+                                            </h2>
+                                        </a>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem error voluptatum ea praesentium illum fugiat. Delectus maxime consectetur ratione adipisci corporis. Non atque voluptas omnis, obcaecati nisi pariatur ipsum itaque.</p>
+                                        <div class="card-actions justify-end">
+                                        <div class="badge badge-outline">Juventiny</div> 
+                                        <div class="badge badge-outline">Products</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </section>
     <section class=" w-full relative">
         <div class=" pt-12">
             <div class="max-w-5xl mx-auto px-2">
